@@ -7,7 +7,7 @@ do
     Console.Clear();
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("#########################################");
-    Console.WriteLine("##### BEM-VINDO À CAVERNA DO DRAGÃO #####");
+    Console.WriteLine("##### BEM-VINDO AO JOGO SUPER AVENTURA #####");
     Console.WriteLine("#########################################");
     Console.WriteLine();
     Console.ForegroundColor = ConsoleColor.White;

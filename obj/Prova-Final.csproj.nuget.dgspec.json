@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj": {}
+    "c:\\tmp ke\\Jogo de Console\\Prova-Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj": {
+    "c:\\tmp ke\\Jogo de Console\\Prova-Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
+        "projectUniqueName": "c:\\tmp ke\\Jogo de Console\\Prova-Final.csproj",
         "projectName": "Prova-Final",
-        "projectPath": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
-        "packagesPath": "C:\\Users\\ruben.prado\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\obj\\",
+        "projectPath": "c:\\tmp ke\\Jogo de Console\\Prova-Final.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "c:\\tmp ke\\Jogo de Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ruben.prado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
